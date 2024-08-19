@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamedlpr
 - 👀 I’m interested in proggraming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my gmail: mohamedminigames12@gmail.com
 - 😄 Pronouns: He/Him
