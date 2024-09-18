@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+I'm+Mohamed+Osama.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="Pixel Art" align="right" width="330"><br>
+<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="Pixel Art" align="right" width="200"><br>
 
 ### Languages and tools:
 <div style="display: inline_block"><br>
